@@ -1,0 +1,6 @@
+POST  https://iu2ru4s71f.execute-api.ap-northeast-1.amazonaws.com/prod?signature=111108bb8e6dbc2xxxx&timestamp=1783610513&nonce=380320111 HTTP/1.1
+Content-Type: application/json
+
+{ 
+    "encrypt": "ajls384kdjx98XX"     
+} 
